@@ -43,7 +43,8 @@ Timing and batching depend on your input and browser. No FPS, duration, or speed
 
 ## Screenshot
 
-_Screenshot placeholder: add a screenshot of the desktop workbench here._
+<img width="1898" height="905" alt="image" src="https://github.com/user-attachments/assets/d1cd5114-88ba-45bb-ad6e-e3fa28a56c2f" />
+
 
 ## Structure
 
